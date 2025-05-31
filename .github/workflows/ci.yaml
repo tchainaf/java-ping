@@ -6,7 +6,7 @@ on:
     branches: [ "main" ]
 
 jobs:
-  contruir:
+  build:
 
     runs-on: ubuntu-latest
 
