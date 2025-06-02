@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.1.0](https://github.com/acnaweb/java-ping/compare/v1.0.0...v1.1.0) (2025-06-02)
+
+
+### Features
+
+* add route ([c7852de](https://github.com/acnaweb/java-ping/commit/c7852def1b11e3262cdb1df55b063c6874eb1afd))
+* add route ([4d2f42a](https://github.com/acnaweb/java-ping/commit/4d2f42a8670dcc3a84131c2f2ddbc64437393904))
+* setup maven ([1b75129](https://github.com/acnaweb/java-ping/commit/1b7512993630a5dcf5232d0f442a9abe2c5aad0b))
+
 ## 1.0.0 (2025-06-02)
 
 
