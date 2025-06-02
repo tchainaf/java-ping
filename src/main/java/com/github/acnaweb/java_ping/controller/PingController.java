@@ -22,4 +22,9 @@ public class PingController {
     public String mensagem() {
         return mensagem;
     }
+
+    @GetMapping("/mensagems")
+    public String mensagems() {
+        return mensagem;
+    }
 }
