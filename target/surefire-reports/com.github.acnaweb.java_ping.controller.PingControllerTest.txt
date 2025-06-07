@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.github.acnaweb.java_ping.controller.PingControllerTest
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.642 s -- in com.github.acnaweb.java_ping.controller.PingControllerTest
