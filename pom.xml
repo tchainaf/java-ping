@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.github.acnaweb</groupId>
 	<artifactId>java-ping</artifactId>
-	<version>1.2.0</version>
+	<version>1.2.1-SNAPSHOT</version>
 	<name>java-ping</name>
 	<description>API Java Ping</description>
 	<properties>
