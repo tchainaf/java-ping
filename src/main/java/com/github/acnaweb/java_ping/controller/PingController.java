@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("ping")
 public class PingController { 
 
-    @Value("${MENSAGEM:Mensagem padrão}")
+    @Value("${MENSAGEM:Mensagem default}")
     private String mensagem;
 
     @GetMapping
