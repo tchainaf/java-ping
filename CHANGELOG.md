@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.3.0](https://github.com/tchainaf/java-ping/compare/v1.2.0...v1.3.0) (2025-06-14)
+
+
+### Features
+
+* ajustar mensagem padrão ([23e5991](https://github.com/tchainaf/java-ping/commit/23e59918b1e1f6a622fa5556a66f45d3ff78f7a4))
+* update cd ([b631ed9](https://github.com/tchainaf/java-ping/commit/b631ed9c1539b1c0b8eb3d5db0ce895e3eed3174))
+* update ci ([05a52d7](https://github.com/tchainaf/java-ping/commit/05a52d73c1088b579c3973cfc11a13213753909b))
+
 ## [1.2.0](https://github.com/tchainaf/java-ping/compare/v1.1.0...v1.2.0) (2025-06-14)
 
 
