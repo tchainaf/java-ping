@@ -16,5 +16,5 @@ jobs:
           password: ${{ secrets.DOCKERHUB_TOKEN }}
       - name: Build and push
         run: |
-          docker build -t acnaweb/java-ping .
-          docker push acnaweb/java-ping
+          docker build -t  ${{ vars.DOCKERHUB_USERNAME }}/java-ping .
+          docker push  ${{ vars.DOCKERHUB_USERNAME }}/java-ping
